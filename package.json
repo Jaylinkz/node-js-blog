@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.1",
+    "morgan": "^1.10.0",
+    "node": "^19.0.0",
+    "upper-case": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "myFirst.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
